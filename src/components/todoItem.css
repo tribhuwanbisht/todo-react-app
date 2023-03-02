@@ -1,0 +1,4 @@
+.updateIcon,
+.deleteIcon:hover {
+  cursor: pointer;
+}
